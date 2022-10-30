@@ -30,6 +30,7 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
   <a href="https://www.twitter.com/iThieler"><img src="https://img.shields.io/static/v1?logo=twitter&label=Twitter&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://www.youtube.com/iThieler"><img src="https://img.shields.io/static/v1?logo=youtube&label=YouTube&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/thiel1984"><img src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <a href="https://www.xing.com/profile/Michael_Thiel121"><img src="https://img.shields.io/static/v1?logo=xing&label=Xing&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/iThieler"><img src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://github.com/iThieler"><img src="https://img.shields.io/static/v1?logo=github&label=GitHub&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://www.twitch.com/iThieler"><img src="https://img.shields.io/static/v1?logo=twitch&label=Twitch&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
