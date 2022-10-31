@@ -20,9 +20,9 @@ Welcome to my profile page. My name is Michael Thiel, I am 38 years old and I am
 
 Primarily, I created this collection of scripts to make setting up proxmox servers easier and also faster for me. I use gitHub to channel and manage my ideas and elaborations. It's nothing professional, so let me say, if you use my scripts, do so at your own risk. Test them before you use this productively. Always remember to use due diligence when sourcing scripts and automation tasks from third party websites.
 
-If you want to contribute, you can join discussions [here](https://github.com/iThieler/iThieler/discussions), and maybe help one or two with their problems. If you want to support me in my work, you can [buy me a coffee](https://ko-fi.com/U7U3FUTLF), or send me an [E-Mail](mailto:michael@thiels.network?subject=[GitHub]%20) if you want to actively contribute.
+If you want to contribute, you can join discussions [here](https://github.com/iThieler/iThieler/discussions), and maybe help one or two with their problems. If you want to support me in my work, you can [buy me a coffee](https://ko-fi.com/U7U3FUTLF), or send me an [E-Mail](mailto:michael@thiels.network?subject=[GitHub]%20) if you want to actively contribute.<br><br>
 
-<br><br><h1 align="center" id="heading">You like my work? You can ...</h1>
+<h1 align="center" id="heading">You like my work? You can ...</h1>
 
 <h3 id="heading">... support me by following me at</h3>
 <p>
