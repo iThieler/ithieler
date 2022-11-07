@@ -26,15 +26,15 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 
 <h3 id="heading">... support me by following me at</h3>
 <p>
-  <a href="https://www.facebook.com/thiel1984"><img src="https://img.shields.io/static/v1?logo=facebook&label=FaceBook&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <!-- <a href="https://www.facebook.com/thiel1984"><img src="https://img.shields.io/static/v1?logo=facebook&label=FaceBook&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>  -->
   <a href="https://www.twitter.com/iThieler"><img src="https://img.shields.io/static/v1?logo=twitter&label=Twitter&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/iThieler"><img src="https://img.shields.io/static/v1?logo=youtube&label=YouTube&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <!-- <a href="https://www.youtube.com/iThieler"><img src="https://img.shields.io/static/v1?logo=youtube&label=YouTube&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>  -->
   <a href="https://www.linkedin.com/in/thiel1984"><img src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://www.xing.com/profile/Michael_Thiel121"><img src="https://img.shields.io/static/v1?logo=xing&label=Xing&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/iThieler"><img src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <!--  <a href="https://www.instagram.com/iThieler"><img src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>  -->
   <a href="https://github.com/iThieler"><img src="https://img.shields.io/static/v1?logo=github&label=GitHub&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
-  <a href="https://www.twitch.com/iThieler"><img src="https://img.shields.io/static/v1?logo=twitch&label=Twitch&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
-  <a href="https://www.tiktok.com/iThieler"><img src="https://img.shields.io/static/v1?logo=tiktok&label=TikTok&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <!--  <a href="https://www.twitch.com/iThieler"><img src="https://img.shields.io/static/v1?logo=twitch&label=Twitch&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>
+  <a href="https://www.tiktok.com/iThieler"><img src="https://img.shields.io/static/v1?logo=tiktok&label=TikTok&message=Follow%20me&color=brightgreen&style=for-the-badge" /></a>  -->
 </p>
 
 <h3 id="heading">... writing to me by</h3>
@@ -47,7 +47,7 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 <h3 id="heading">... reduce my expenses by</h3>
 <p>
   <a href="https://ko-fi.com/U7U3FUTLF"><img src="https://img.shields.io/static/v1?logo=ko-fi&label=Buy&message=me%20a%20Coffee&color=brightgreen&style=for-the-badge" /></a>
-#  <a href="https://www.amazon.de/hz/wishlist/ls/360K3ROOSECSE"><img src="https://img.shields.io/static/v1?logo=amazon&label=Buy&message=From%20my%20amazon%20Wishlist&color=brightgreen&style=for-the-badge" /></a>
+<!--  <a href="https://www.amazon.de/hz/wishlist/ls/360K3ROOSECSE"><img src="https://img.shields.io/static/v1?logo=amazon&label=Buy&message=From%20my%20amazon%20Wishlist&color=brightgreen&style=for-the-badge" /></a>  -->
 </p>
 
 <br><br><h1 align="center" id="heading">My Stats & Skills</h1>
