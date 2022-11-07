@@ -54,9 +54,9 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-#  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-#  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </p>
 
 <p align="center">
