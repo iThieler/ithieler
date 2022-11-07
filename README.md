@@ -40,14 +40,14 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 <h3 id="heading">... writing to me by</h3>
 <p>
   <a href="https://www.discord.com/iThieler"><img src="https://img.shields.io/static/v1?logo=discord&label=discord&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
-  <a href="mailto:michael@thiels.network?subject=[GitHub]%20"><img src="https://img.shields.io/static/v1?logo=mail.ru&label=E-Mail&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
+  <a href="mailto:ithieler@mail.de?subject=[GitHub]%20"><img src="https://img.shields.io/static/v1?logo=mail.ru&label=E-Mail&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://github.com/iThieler/iThieler/discussions"><img src="https://img.shields.io/static/v1?logo=discourse&label=Join&message=the%20discussions&color=brightgreen&style=for-the-badge" /></a>
 <p>
 
 <h3 id="heading">... reduce my expenses by</h3>
 <p>
   <a href="https://ko-fi.com/U7U3FUTLF"><img src="https://img.shields.io/static/v1?logo=ko-fi&label=Buy&message=me%20a%20Coffee&color=brightgreen&style=for-the-badge" /></a>
-  <a href="https://www.amazon.de/hz/wishlist/ls/360K3ROOSECSE"><img src="https://img.shields.io/static/v1?logo=amazon&label=Buy&message=From%20my%20amazon%20Wishlist&color=brightgreen&style=for-the-badge" /></a>
+#  <a href="https://www.amazon.de/hz/wishlist/ls/360K3ROOSECSE"><img src="https://img.shields.io/static/v1?logo=amazon&label=Buy&message=From%20my%20amazon%20Wishlist&color=brightgreen&style=for-the-badge" /></a>
 </p>
 
 <br><br><h1 align="center" id="heading">My Stats & Skills</h1>
