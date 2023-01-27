@@ -39,7 +39,7 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 
 <h3 id="heading">... writing to me by</h3>
 <p>
-  <a href="https://www.discord.com/iThieler"><img src="https://img.shields.io/static/v1?logo=discord&label=discord&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
+  <a href="https://discord.com/channels/@me/iThieler/"><img src="https://img.shields.io/static/v1?logo=discord&label=discord&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="mailto:ithieler@mail.de?subject=[GitHub]%20"><img src="https://img.shields.io/static/v1?logo=mail.ru&label=E-Mail&message=Talk%20to%20me&color=brightgreen&style=for-the-badge" /></a>
   <a href="https://github.com/iThieler/iThieler/discussions"><img src="https://img.shields.io/static/v1?logo=discourse&label=Join&message=the%20discussions&color=brightgreen&style=for-the-badge" /></a>
 <p>
