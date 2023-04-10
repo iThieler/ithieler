@@ -60,5 +60,10 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iThieler&theme=github-dark&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iThieler&show_icons=true&border_color=5BB251&icon_color=5BB251&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iThieler&label=My+Profile+Views&color=brightgreen&style=for-the-badge" />
 </p>
